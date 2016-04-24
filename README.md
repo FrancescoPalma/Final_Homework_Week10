@@ -1,7 +1,7 @@
 # Final_Homework_Week10
 Java OO Farm
 
-Task 1: MVP - Farm Setup (DONE)
+Task 1: MVP - Farm Setup (50% DONE)
 
 Create a farm consisting of a number of animals of your choice. Each animal should be defined in its own class.
 
