@@ -1,0 +1,11 @@
+package com.codeclan.md;
+
+public abstract class Food {
+
+	protected double energy;
+	
+	public Food(){
+		this.energy = 15;
+	}
+	
+}
